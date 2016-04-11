@@ -83,7 +83,8 @@ Do your interview in a room where there is proper lighting. This means you don�
 If you’re doing the interview during the day, go close to a window. Natural light is flattering, just don’t have the sun shining in your face. 
 
 See examples below: 
-ADDDDDD STUFFF HERE
+
+![Good and Bad Lighting](https://s3.amazonaws.com/learn-verified/SkypeGoodandBad.jpg)[Source](http://masterthemedia.com/mastering-a-skype-media-interview-2/)
 
 **Personal Presentation**
 
