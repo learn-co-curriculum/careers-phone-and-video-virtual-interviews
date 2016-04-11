@@ -86,6 +86,11 @@ See examples below:
 
 ![Good and Bad Lighting](https://s3.amazonaws.com/learn-verified/SkypeGoodandBad.jpg)[Source](http://masterthemedia.com/mastering-a-skype-media-interview-2/)
 
+![Good and Bad Lighting 2](https://s3.amazonaws.com/learn-verified/SkypeGoodandBad2.png) [Source](http://www.kplu.org/post/5-tips-help-you-look-better-skype-facetime) 
+
+![Good and Bad Lighting 3](https://s3.amazonaws.com/learn-verified/SkypeGoodandBad3.jpg)[Source](http://www.supertintin.com/blog/skype-recorder/how-to-improve-webcam-video-image-quality)
+
+
 **Personal Presentation**
 
 Look the same way for a video interview as you would for an in-person interview. In other lessons we go over what to wear. 
