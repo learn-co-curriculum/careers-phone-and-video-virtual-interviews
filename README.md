@@ -63,7 +63,7 @@ All the tips in the phone interview checklist listed first apply for video inter
 
 **Choose an appropriate background**
 
-Do the interview in the tidiest, nicest-looking room in your house. If that’s your bedroom make sure you bed is made, if in your kitchen, make sure no dirty dishes are in the background.
+Do the interview in the tidiest, nicest-looking room in your house. If that’s your bedroom make sure your bed is made, if in your kitchen, make sure no dirty dishes are in the background.
 
 If you live with other people who could come into the frame, inform them in advance that you’ll need the space to be private so that they don’t walk behind you during the interview (even if they don’t speak, it’s still distracting and looks unprofessional). 
 
@@ -115,3 +115,5 @@ Sit up straight! Not only does it affect how your voice projects but your interv
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-phone-and-video-interviews'>Careers Phone and Video Interviews</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/careers-phone-and-video-interviews'>Phone And Video Interviews</a> on Learn.co and start learning to code for free.</p>
