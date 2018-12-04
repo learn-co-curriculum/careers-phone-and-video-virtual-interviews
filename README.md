@@ -1,10 +1,11 @@
-# Phone and Video Interviews
+# Phone and Video/Virtual Interviews
 
-It is almost certain that during your job search you will do a phone or video interview. Even if you’re interviewing for a company in the city where you live you’ll very likely find your first (or second) round interviews via phone screen or video interview. 
+It is almost certain that during your job search you will do a phone or video/virtual interview. Even if you’re interviewing for a company in the city where you live you’ll very likely have your first (or second) round interviews via phone screen or video/virtual interview.
 
-In interviews where you can’t physically bring yourself into the interview space, you won’t be able to rely on nonverbal communication to help you in building rapport with your interviewer or in conveying how qualified and interested you are in the job.  Because of this, it’s important for you to know how to emphasize the things that do play a role in making you sound like an attractive candidate.
+In interviews where you can’t physically bring yourself into the interview space you won’t be able to rely on nonverbal communication to help you in building rapport with your interviewer, or in conveying how qualified and interested you are in the job. Because of this, it’s important for you to know how to emphasize the things that do play a role in making you look and/or sound like an attractive candidate.
 
-Be excited and take it seriously. It takes just as much prep work as going to a physical interview. 
+Be excited and take it seriously. It takes just as much prep work as going to a physical interview. The more energy and enthusiasm you bring the better.
+
 
 ## Phone Interview Preparation Checklist
 
@@ -16,7 +17,7 @@ Be excited and take it seriously. It takes just as much prep work as going to a 
 - ...where pets or children are present or can be heard. 
 
 **Do...**
-- ..choose a quiet, indoor location
+- ..choose a quiet, indoor location.
 - ...make sure the only sound that can be heard is your voice.
 
 **Situate yourself 10 minutes before the interview**
@@ -51,24 +52,27 @@ Because your voice is the only way you’ll be able to communicate during the in
 
 Don’t feel the need to fill every moment of silence with words. When you’re asked a question, it’s okay to pause to think through your answer before you start speaking. On the flipside, if you’ve said what you needed to say and your interviewer hasn’t responded, there is no need to start speaking to fill the space. Your interviewer is likely taking notes and might need a few seconds to catch up. 
 
-## Video Interview Preparation Checklist 
+## Video/Virtual Interview Preparation Checklist 
 
 The main difference between a phone and video interview is that your interviewer can see you! There are various platforms through which interviews are conducted, like:
 
 - Skype
 - Google Hangouts
-- Interviewing platforms like *Take the Interview* or *BlueJeans*
+- Zoom
+- Interviewing platforms like *Take the Interview*, *HireVue*, or *BlueJeans*
 
 All the tips in the phone interview checklist listed first apply for video interviews, so make sure that you know them well. Below are additional steps you need to take to get ready for your video interview.
 
 **Choose an appropriate background**
 
-Do the interview in the tidiest, nicest-looking room in your house. If that’s your bedroom make sure your bed is made, if in your kitchen, make sure no dirty dishes are in the background.
+Do the interview in the tidiest, nicest-looking room in your house. If that’s your bedroom make sure your bed is made. f in your kitchen, make sure no dirty dishes are in the background.
 
-If you live with other people who could come into the frame, inform them in advance that you’ll need the space to be private so that they don’t walk behind you during the interview (even if they don’t speak, it’s still distracting and looks unprofessional). 
+If you live with other people who could come into the frame, inform them in advance that you’ll need the space to be private so that they don’t walk behind you during the interview (even if they don’t speak, it’s still distracting and looks unprofessional).
 
 The background should be neutral enough that it does not distract the interviewer or make them question your professionalism.
-Do NOT do a video (or phone) interview in a cafe or other public place. It is never quiet enough. Find another place to do a video interview if it cannot be in your home. 
+
+Do NOT do a video /virtual(or phone) interview in a cafe or other public place. It is never quiet enough. Find another place to do this interview if it cannot be in your home.
+
 
 **Test your audio, wifi, and video connections **
 
@@ -97,11 +101,11 @@ Look the same way for a video interview as you would for an in-person interview.
 
 **Smile!**
 
-Answer the video call with a smile on your face. This makes your interviewer feel comfortable and conveys that you are interested in talking to them. This sets a positive tone for the conversation. 
+Answer the video/virtual call with a smile on your face. This makes your interviewer feel comfortable and conveys that you are interested in talking to them. This sets a positive tone for the conversation. 
 
 **Look directly into the camera**
 
-And not at yourself on the screen. Make eye contact as best you can with the interviewer and avoid looking anywhere else. 
+...and not at yourself on the screen. Make eye contact as best you can with the interviewer and avoid looking anywhere else. 
 
 Don’t use two screens. 
 
