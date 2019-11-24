@@ -17,7 +17,7 @@ Be excited and take it seriously. It takes just as much prep work as going to a 
 - ...where pets or children are present or can be heard. 
 
 **Do...**
-- ..choose a quiet, indoor location.
+- ...choose a quiet, indoor location.
 - ...make sure the only sound that can be heard is your voice.
 
 **Situate yourself 10 minutes before the interview**
